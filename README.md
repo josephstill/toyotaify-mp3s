@@ -4,7 +4,6 @@ album. Instead the tracks are sorted alphabetically by title. This podantic
 application will prepend disk and track numbers to each MP3 so that your
 albums will play in order.
 
-'''
 Toyotaify [-h] (--dir DIR | --file FILE) [--recurse | --no-recurse]
 
 optional arguments:
@@ -14,6 +13,5 @@ optional arguments:
   --recurse, --no-recurse
                         Search through directories and subdirectories
                         (default: True)
-'''
 
 Note: I am in no way associated with Toyota.
